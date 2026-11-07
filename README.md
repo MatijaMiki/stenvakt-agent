@@ -1,5 +1,7 @@
 # Stenvakt agent skill
 
+[![skills.sh](https://skills.sh/b/MatijaMiki/stenvakt-agent)](https://skills.sh/MatijaMiki/stenvakt-agent)
+
 An [agent skill](https://skills.sh) that teaches Claude Code, Cursor, Codex and other agents to check, patch and harden your Linux servers through [Stenvakt](https://stenvakt.com): read first, propose every change, and you approve it in the app. The agent never gets an SSH key.
 
 ## Install
